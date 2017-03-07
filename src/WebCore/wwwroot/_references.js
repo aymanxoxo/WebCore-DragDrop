@@ -1,4 +1,7 @@
 ﻿/// <autosync enabled="true" />
+/// <reference path="angular/app.js" />
+/// <reference path="angular/controllers/mainctrl.js" />
+/// <reference path="js/angular-drag-and-drop-lists.min.js" />
 /// <reference path="js/site.js" />
 /// <reference path="lib/bootstrap/dist/js/bootstrap.js" />
 /// <reference path="lib/jquery/dist/jquery.js" />
